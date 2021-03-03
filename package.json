@@ -29,7 +29,7 @@
     "mysql2": "^1.6.1",
     "nodemailer": "^4.6.8",
     "nodemailer-sendgrid-transport": "^0.2.0",
-    "pug": "^2.0.3",
+    "pug": "^3.0.1",
     "sequelize": "^5.0.0-beta.11"
   }
 }
